@@ -1,6 +1,6 @@
 # Face-Shields
 
-The COVID-19 Pandemic has resulted in a global shortage of PPE for frontline health care workers causing great concern for the safety and health of communities. The MGB Center for COVID-19 Innovation https://covidinnovation.partners.org/ was created in response to the global PPE shortage. The center is organized by four distinct pillars: Devices, Diagnostics, Data Analytics, and Therapeutics. Within each of these groups exisits a collaborative network of volunteers, designers, engineers, clinicians and manufacturers sharing innovative ideas. 
+The COVID-19 pandemic has resulted in a global shortage of PPE for frontline health care workers causing great concern for the safety and health of communities. The MGB Center for COVID-19 Innovation https://covidinnovation.partners.org/ was created in response to the global PPE shortage. The center is organized by four distinct pillars: Devices, Diagnostics, Data Analytics, and Therapeutics. Within each of these groups exisits a collaborative network of volunteers, designers, engineers, clinicians and manufacturers sharing innovative ideas. 
 
 The Face Shield working group is a branch of the Devices Pillar and has upwards of 400 members participating in optimizing and iterating design options suggested by the community. User evaluation results and design reviews were held in a series of Zoom meetings to evaluate and finalize designs.
 
