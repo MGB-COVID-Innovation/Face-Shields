@@ -16,7 +16,7 @@ To ensure positive collaboration, everything in this repository is free and open
 
 The content here is not medical advice, it is only out intent to share aquired knowledge. 
 
-Disclaimer:[This content is made available subject to the following conditions:
+Disclaimer:This content is made available subject to the following conditions:
 
 This information is made available for educational and research purposes only.  It has not been reviewed or approved by the United States Food and Drug Administration or any other agency.  The Information is provided “AS IS” and must not be used to make a clinical diagnosis, to provide clinical care, or to replace or overrule a licensed health care professional’s judgment.  Mass General Brigham, including any and all of its affiliated institutions, is not responsible for ensuring that one’s use of the Information will be clinically sound, without error, or otherwise successful. If you choose to use the Information, you assume all risk and bear all responsibility and liability.  Mass General Brigham specifically disclaims all warranties, express, implied or statutory, including implied warranties of merchantability, fitness for a particular purpose, and noninfringement.
 
